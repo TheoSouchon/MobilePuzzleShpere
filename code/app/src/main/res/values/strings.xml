@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SpherePuzzle</string>
+    <string name="jouer">JOUER</string>
+    <string name="sphyr">Sphyr</string>
+    <string name="button">Button</string>
+    <string name="levels">LEVELS</string>
+    <string name="lvl1">LEVEL 1</string>
+    <string name="lvl2">LEVEL 2</string>
+    <string name="lvl3">LEVEL 3</string>
+    <string name="todo">TODO</string>
+    <string name="timeTxt">0</string>
+    <string name="button1">text</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="textview">Bienvenue sur le jeu SPHYR, contrôlez une figure et amenez là à la zone de but. <br></br> <br></br> Bonne chance ! ;)</string>
+    <string name="retry">RETRY</string>
+    <string name="lvlMenuBtnt">BACK MENU</string>
+    <string name="nextLvl">NEXT</string>
+    <string name="gameover">GAME OVER</string>
+    <string name="wintxt">WIN</string>
+</resources>

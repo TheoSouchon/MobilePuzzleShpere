@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "644488348965",
+    "project_id": "spherepuzzle-b4be4",
+    "storage_bucket": "spherepuzzle-b4be4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644488348965:android:f79a5ebe4c99b56e0446cc",
+        "android_client_info": {
+          "package_name": "com.example.spherepuzzle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644488348965-pct4onu92noh321ur8837r9o3o4254ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ7LSCYAjwpF2FCyhN915n9-KwyxklHmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644488348965-pct4onu92noh321ur8837r9o3o4254ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
